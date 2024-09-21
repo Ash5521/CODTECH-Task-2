@@ -1,7 +1,10 @@
 YOUR FULL NAME : Ashmit Rawat
+
 DOMAIN NAME : Web Development
+
 INTERN ID : CT6WDS1658
-BATCH DURATION : AUGUST 10th,2024 to SEPTEMBER 25th, 2024.
+
+BATCH DURATION : AUGUST 10th 2024 to SEPTEMBER 25th, 2024.
 
 Welcome to the repository showcasing my completed tasks for the CodeTech internship in Web Development. This project highlights my skills, creativity, and problem-solving abilities through the development of two primary projects
 
